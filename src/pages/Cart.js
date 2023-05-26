@@ -91,7 +91,7 @@ const Cart = () => {
                                             </div>
                                         </div>
                                         <div>
-                                        <button type="button" className="btn checkout_btn" onClick={() => window.location.href = 'https://pay.easebuzz.in/pay/e8e937e7037d13be39e1c92f515ad4f127c8d5899297f7dc76df5631522f0f03'}>
+                                        <button type="button" className="btn checkout_btn" onClick={() => window.location.href = 'https://www.letzpay.com/pgui/jsp/paymentrequest'}>
   Checkout
 </button>
 
